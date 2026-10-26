@@ -1,0 +1,5 @@
+/paper/
+__pycache__/
+.pytest_cache/
+.hypothesis/
+.venv*/
